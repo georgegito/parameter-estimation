@@ -10,5 +10,5 @@ Modeling, simulation and parameters estimation of the following systems:
 Run the demo file:
 
 ```bash
-demo.m
+src/demo.m
 ```
