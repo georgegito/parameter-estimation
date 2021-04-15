@@ -1,6 +1,6 @@
 close all;
 clear;
-addpath("lib");
+addpath("../lib");
 
 %% system 1
 % select filter poles p1 and p2 and call sim1(p1, p2)
