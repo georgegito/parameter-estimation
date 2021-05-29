@@ -1,6 +1,6 @@
-# Modeling & Simulation of Dynamic Systems
+# Modeling & Simulation of Dynamic Systems - Parameter Estimation
 
-Modeling, simulation and parameters estimation of the following systems: 
+Modeling, simulation and parameter estimation of the following systems: 
 
 * **System 1**: Damped Oscillation
 * **System 2**: Electrical Circuit
